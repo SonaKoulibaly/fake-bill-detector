@@ -30,7 +30,7 @@ ENV/
 !.env.local.example
 
 # --- Modèles ML (trop lourds pour Git) ---
-backend/models/*.pkl
+
 
 # --- Jupyter ---
 .ipynb_checkpoints/
